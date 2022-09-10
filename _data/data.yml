@@ -69,15 +69,15 @@ education:
 experiences:
       - role: Lecturer in Mathematics 
         time: 2020 - Present
-        company: Institut Teknologi Sumatera, Lampung, Indonesia
+        company: Institut Teknologi Sumatera, Lampung Indonesia
         details: |
            I teach
             - Basic Mathematics
             - Basic Programming
             - Numerical Methods
             - Visualization in Science
-            - Topics in Computational Mathematics 1 (Computational Methods in Transport Phenomena)
-            - Topics in Computational Mathematics 2 (Mathematics for Deep Learning)
+            - Topics in Computational Mathematics 1 / Computational Methods in Transport Phenomena
+            - Topics in Computational Mathematics 2 / Mathematics for Deep Learning
             
       - role: Guest Lecturer
         time: 2018 - 2020

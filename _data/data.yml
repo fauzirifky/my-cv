@@ -93,75 +93,73 @@ experiences:
         details: |
           
 projects:
-    title: Projects
+    title: Activities
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: Secretary of Mathematics Study Program
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: 
 
-      - title: DevStudio
+      - title: Secretary of the Research and Innovation Center for Prediction and Risk Modeling on Hazard and Disaster Institut Teknologi Sumatera
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      
+      - title: Analisis Prediksi Data Kasus Covid-19 di Provinsi Lampung Menggunakan Recurrent Neural Network (RNN)
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Ghozi, A. A., Aprianti, A., Dimas, A. D. P., Fauzi, R.,
+        conference: Indonesian Journal of Applied Mathematics (2-1), 25-32, (2022).
+        
+      - title: Momentum conservative scheme for simulating granular landslide over an inclined rigid bed
+        link: "#"
+        authors: Fauzi, R., Wiryanto, L. H.
+        conference:  Advances and Applications in Fluid Mechanics 27 (1), 37-45 (2021).
+        
+      - title: Numerical simulation of roll waves in an inclined channel
+        link: "#"
+        authors: Fauzi, R., Wiryanto, L. H.
+        conference:  Advances and Applications in Fluid Mechanics 24 (1-2), 1-10 (2020).
+        
+      - title: Predictor-corrector scheme for simulating wave propagation on shallow water region.
+        link: "#"
+        authors: Fauzi, R., Wiryanto, L. H.
+        conference: IOP Conf. Series: Earth and Environmental Science 162 (2018) 012047.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "On the staggered scheme for shallow water model down an inclined channel"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Fauzi, R., Wiryanto, L. H.
+        conference: "AIP Conference Proceedings 1867, 020002 (2017)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: On the Pseudo-spectral Methods for Solving MKdV Equation
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Fauzi, R., Mashuri, Sihwaningrum, I.
+        conference: "International Seminar on Innovation in Mathematics and Mathematics Education (2014)"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 58%
 
-      - name: Angular
-        level: 98%
+      - name: R
+        level: 72%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 53%
 
-      - name: Ruby on Rails
+      - name: C++
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: CorelDraw & Photoshop
         level: 60%
-
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -98,7 +98,7 @@ experiences:
 projects:
     title: Activities
     intro: >
-      
+    
     assignments:
       - title: Secretary of Mathematics Study Program
         link: "#hook"
@@ -111,7 +111,8 @@ projects:
 publications:
     title: Publications
     intro: |
-    
+        My works mostly related to mathematical modeling, numerical method and computational method.
+    papers:
       - title: Analisis Prediksi Data Kasus Covid-19 di Provinsi Lampung Menggunakan Recurrent Neural Network (RNN)
         link: "#"
         authors: Ghozi, A. A., Aprianti, A., Dimas, A. D. P., Fauzi, R.,

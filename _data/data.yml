@@ -135,7 +135,7 @@ skills:
       - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript & p5js
         level: 58%
 
       - name: R

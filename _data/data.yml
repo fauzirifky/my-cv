@@ -67,6 +67,8 @@ education:
         details: |
         
 experiences:
+    title: Experiences
+    info:
       - role: Lecturer in Mathematics 
         time: 2020 - Present
         company: Institut Teknologi Sumatera, Lampung Indonesia

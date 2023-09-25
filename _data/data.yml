@@ -19,7 +19,7 @@ sidebar:
     website: #blog.webjeda.com #do not add http://
     linkedin: rifky fauzi
     xing: #alandoe
-    github: rifkyfauzi9
+    github: fauzirifky
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a lecturer in Mathematics at Institut Teknologi Sumatera. I currently joined the Applied Mathematics Research Group with the topic of computational fluid dynamics and wave modeling.
+      I am a lecturer in Mathematics at Institut Teknologi Sumatera. I currently joined the Applied Mathematics Research Group with the topic of computational fluid dynamics and mathematical modeling.
 
 education:
     title: Education
@@ -80,6 +80,7 @@ experiences:
             - Visualization in Science
             - Topics in Computational Mathematics 1 / Computational Methods in Transport Phenomena
             - Topics in Computational Mathematics 2 / Mathematics for Deep Learning
+            - Partial Differential Equations
             
       - role: Guest Lecturer
         time: 2018 - 2020
@@ -95,36 +96,40 @@ experiences:
         details: |
           
           
-projects:
-    title: Activities
-    intro: >
-    
-    assignments:
-      - title: Secretary of Mathematics Study Program
-        link: "#hook"
-        tagline: 
-
-      - title: Secretary of the Research and Innovation Center for Prediction and Risk Modeling on Hazard and Disaster Institut Teknologi Sumatera
-        link: "#"
-        tagline: 
 
 publications:
     title: Publications
     intro: |
         My works mostly related to mathematical modeling, numerical method and computational method.
     papers:
+
+      - title: Modeling and descriptive analysis of dengue cases in Palu City, Indonesia
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S0378437123005745"
+        authors: Puspita, J. W., Fakhruddin, M., Nuraini, N., Fauzi. R., Indratno, S. W., Soewono, E.
+        conference: Physica A: Statistical Mechanics and its Applications 625, 129019, (2023).
+
+      - title: Monochromatic Wave Propagation in the Fluid over the Step- up and Step-down Floors
+        link: "https://scholar.google.co.id/citations?hl=en&user=RV4aSFcAAAAJ&view_op=list_works&sortby=pubdate"
+        authors: Ghozi, A. A., Fauzi, R., Wiryanto, L. H.
+        conference: The Basic Science International Conference (BaSIC) Proceedings, 55-67.
+
+      - title: Forecasting of Retirement Insurance Filled via Internet by ARIMA Models
+        link: "http://e-journal.president.ac.id/presunivojs/index.php/JAFRM/article/view/3672"
+        authors: Louisa, L., Fauzi, R., Nugraha, E. S. 
+        conference: Journal of Actuarial, Finance, and Risk Management 1 (1), 1-8
+        
       - title: Analisis Prediksi Data Kasus Covid-19 di Provinsi Lampung Menggunakan Recurrent Neural Network (RNN)
-        link: "#"
+        link: "https://journal.itera.ac.id/index.php/indojam/article/view/763"
         authors: Ghozi, A. A., Aprianti, A., Dimas, A. D. P., Fauzi, R.,
         conference: Indonesian Journal of Applied Mathematics (2-1), 25-32, (2022).
         
       - title: Momentum conservative scheme for simulating granular landslide over an inclined rigid bed
-        link: "#"
+        link: "http://www.pphmj.com/abstract/14038.htm"
         authors: Fauzi, R., Wiryanto, L. H.
         conference:  Advances and Applications in Fluid Mechanics 27 (1), 37-45 (2021).
         
       - title: Numerical simulation of roll waves in an inclined channel
-        link: "#"
+        link: "http://www.pphmj.com/abstract/13124.htm"
         authors: Fauzi, R., Wiryanto, L. H.
         conference:  Advances and Applications in Fluid Mechanics 24 (1-2), 1-10 (2020).
 
@@ -142,13 +147,11 @@ skills:
         level: 72%
 
       - name: HTML5 & CSS
-        level: 53%
+        level: 34%
 
       - name: C++
         level: 85%
 
-      - name: CorelDraw & Photoshop
-        level: 60%
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
